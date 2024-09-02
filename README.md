@@ -32,7 +32,7 @@ python code challenge for  week1
    * vs code
 
 ## author
-ian mwenda
-software engineering student 
+- ian mwenda
+- software engineering student 
 
 
