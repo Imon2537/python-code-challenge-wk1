@@ -5,5 +5,5 @@ def factorialno(n):
     else:
         return n * factorialno(n - 1)
     
-factorial = factorialno(45)
+factorial = factorialno(5)
 print(factorial)

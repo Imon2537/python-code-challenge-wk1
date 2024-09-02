@@ -1,7 +1,7 @@
 # this funcs combines two dictionaries and mergers them into one
 dict1 = {
-    'car': 'subaru',
-    'model': 'forester'
+    'car': 'subaru, ',
+    'model': 'forester, '
 }
 dict2 = {
     'car': 'rolls royce',
