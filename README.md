@@ -4,9 +4,9 @@ python code challenge for  week1
 ## getting started
 - this is a weekly project to test our knowledge on python concepts that were taught during the week
 - We were to handle different functions which  implemented to become code. This were:
-     ### Function: add_numbers
+     ## Function: add_numbers
         -Write a Python function named add_numbers that takes two parameters num1 and num2, and returns the sum of the two numbers.
-     ### Function: is_even 
+     ## Function: is_even 
         - Write a Python function named is_even that takes a single parameter number and returns True if the number is even, and False otherwise.
      ### Function: reverse_string 
         -Write a Python function named reverse_string that takes a string text as input and returns the reversed version of that string.
