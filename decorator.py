@@ -13,7 +13,7 @@ def apply_decorator(func):
 
 @apply_decorator
 def myFunc():
-    print("this is a function")
+    print("applied decorator")
 # decorator = apply_decorator(someFunc())
 # print(decorator)
 
